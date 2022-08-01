@@ -1,0 +1,18 @@
+#local-info{
+	height: 400px;
+	margin: 30px 0;
+}
+#local-info img{
+	width: 500px;
+	float: right;
+}
+
+#local-info aside{
+	width: 400px;
+	float:left;
+}
+
+#local-info h3{
+	margin-top: -50px;
+}
+

@@ -1,0 +1,45 @@
+.carousel-control-next,
+.carousel-control-prev{
+	top: 50px;
+	width: 100%;
+}
+
+.carousel-indicators{
+	top: 275px;
+}
+
+.carousel-indicators li{
+	width: 17px;
+}
+
+.carousel-item{
+    height: 300px;
+} 
+.carousel-item img{
+    height: 300px;
+}
+
+.col-3{
+	padding-left: 0;
+	margin-left: -7px;
+}
+
+.col-md-4{
+	background-color: #1a4f85;
+	color: white;
+	border-radius: 15px;
+}
+
+.form-group{
+	margin-top: 30px;
+	width: 300px;
+}
+
+input{
+	margin: 10px 0;
+}
+
+#submit{
+	background-color: #1a4f85;
+	margin-bottom: 50px;
+}

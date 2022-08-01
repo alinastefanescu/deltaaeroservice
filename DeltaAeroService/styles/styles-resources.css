@@ -1,0 +1,27 @@
+h4{
+	color: #1a4f85;
+	margin-top: 20px;
+}
+
+#links a,a:visited{
+	font-size: 1.5em;
+	color: black;
+}
+
+#links a:hover{
+	color: grey;
+	text-decoration: none;
+}
+
+#links ul{
+	float: left;
+}
+#links ul li{
+	list-style-image: url("../images/list-item.png");
+}
+
+#links img{
+	float: right;
+	height: 600px;
+	margin-bottom: 50px;
+}
